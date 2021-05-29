@@ -1,1 +1,3 @@
-Test readme
+How it works:101
+The client sends connection request and the server keep listening for incoming connection.
+A thread pool is used to handle multiple clients.
