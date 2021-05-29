@@ -1,0 +1,3 @@
+This directory Contains server code.
+server.c is the final server source that uses a thread pool to handle multiple connection.
+Watch how the server code is updated step-by-step from server0.c to server1.c to server.c
